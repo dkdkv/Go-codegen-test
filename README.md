@@ -55,9 +55,3 @@ pet: {
   "status": "available"
 }
 ```
-
-
-## TODO
-
-- [ ] Add server context propagation example
-- [ ] Add client context propagation example
